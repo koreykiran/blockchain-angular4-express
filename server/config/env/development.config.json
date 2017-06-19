@@ -1,0 +1,11 @@
+{
+    "secret" : "Adksajflkajsd",
+
+    "db" : {
+        "host": "localhost",
+        "port":27017,
+        "user" : "root",
+        "password" : "",
+        "database" : "sony_music_db"
+    }
+}
